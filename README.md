@@ -1,20 +1,16 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🩺 DermScan AI - Skin Lesion Analysis
 
-# Run and deploy your AI Studio app
+An AI-driven dermatology assistant that analyzes skin lesions using Deep Learning. This project bridges the gap between medical AI research and real-world web accessibility.
 
-This contains everything you need to run your app locally.
+## 🚀 Core Features
+* **AI Diagnosis**: Leverages a custom-trained CNN to identify skin conditions.
+* **Real-time Processing**: Fast analysis using Vite & React.
+* **Type-Safe Architecture**: Built with TypeScript for maximum reliability.
 
-View your app in AI Studio: https://ai.studio/apps/drive/19OOBSSMccNnyFyeVLigTFJpm5rOJMdZh
+## 🛠️ Tech Stack
+* **Frontend**: React.js, TypeScript, Tailwind CSS.
+* **Intelligence**: TensorFlow.js / Gemini AI Integration.
+* **Build Tool**: Vite.
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 👩‍💻 Developer
+**Habiba** - 3rd Year AI Student.
